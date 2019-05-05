@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1557078685 source:c:\users\los fierros\desktop\abm-generico\main.c
+	<stdlib.h>
+	"FuncionesGenericas.h"
+
+1557079455 c:\users\los fierros\desktop\abm-generico\funcionesgenericas.h
+	<stdio.h>
+	"PedirDatos.h"
+
+1556641145 c:\users\los fierros\desktop\abm-generico\pedirdatos.h
+
+1556643242 source:c:\users\los fierros\desktop\abm-generico\pedirdatos.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1557079455 source:c:\users\los fierros\desktop\abm-generico\funcionesgenericas.c
+	"FuncionesGenericas.h"
+	<string.h>
+
